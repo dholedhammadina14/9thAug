@@ -1,3 +1,7 @@
 Hello Dhammadina
 hi everyone welcome to git account
+
 code changes to Master Branch to form a new branch team member1
+
+code changes to Master Branch directly by team member1
+
